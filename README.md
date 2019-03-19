@@ -2,7 +2,7 @@
 
 Jython is the JVM implementation of the Python programming language. It is designed to run on the Java platform. A Jython program can import and use any Java class. Just as Java, Jython program compiles to bytecode.
 
-##Why am I trying this crazy combination of Python and Java?
+## Why am I trying this crazy combination of Python and Java?
 
 Why not? My very first computer language that I learned was Java and I've survived several university classes with Java. From principle of computer science to data structure to algorithm to operating system class, Java was my friend and I will always go back to Java whenever I can. Python is the language that I mostly used to work on any type of data programming class. So let see what happen when I used both languages together.
 
